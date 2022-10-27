@@ -1,0 +1,19 @@
+{
+  "sectors": [
+    {
+      "id": 1906,
+      "sectorName": "Agricultura",
+      "roles": [
+        "Diretor",
+        "Gerente de Agricultura"
+      ]
+    },
+    {
+      "id": 176,
+      "sectorName": "TI",
+      "roles": [
+        "Diretor de TI"
+      ]
+    }
+  ]
+}
